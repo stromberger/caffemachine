@@ -1,0 +1,14 @@
+{
+  "port": 8080,
+  "models": [
+    {
+      "name": "GoogLeNet",
+      "inputWidth": 227,
+      "inputHeight": 227,
+      "modelFile": "",
+      "trainedFile": "",
+      "meanFile": "",
+      "labelFile": ""
+    }
+  ]
+}
